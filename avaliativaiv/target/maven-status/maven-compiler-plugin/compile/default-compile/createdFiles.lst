@@ -1,0 +1,16 @@
+br\edu\ifnmg\poo\role\Role.class
+br\edu\ifnmg\poo\repository\DbConnection.class
+br\edu\ifnmg\poo\user\UserDAO.class
+br\edu\ifnmg\poo\credential\Credential.class
+br\edu\ifnmg\poo\repository\IDao.class
+br\edu\ifnmg\poo\avaliativaiv\Testes.class
+br\edu\ifnmg\poo\credential\CredentialDAO.class
+br\edu\ifnmg\poo\avaliativaiv\Main.class
+br\edu\ifnmg\poo\reader\Reader.class
+br\edu\ifnmg\poo\librarian\Librarian.class
+br\edu\ifnmg\poo\reader\ReaderDAO.class
+br\edu\ifnmg\poo\role\RoleDAO.class
+br\edu\ifnmg\poo\user\User.class
+br\edu\ifnmg\poo\librarian\LibrarianDAO.class
+br\edu\ifnmg\poo\repository\Dao.class
+br\edu\ifnmg\poo\entity\Entity.class
